@@ -138,5 +138,5 @@ For every 10% of the original HP (including stats from army and upgrades) that t
 Unfortunately this does not apply to enemy cards, if they get a defense upgrade, that's added to the total defense points
 
 Army:
-If in battle and the men dies: flip them upside down you can revive them during the defense turn
+If in battle and the men dies: flip them upside down you can revive them during the defense turn. if the card is upside down, the stats from the card is removed from the total attack/defense points until revived. If the man is revived, flip the card back and then update the defesne/attack accordingly. 
 If you have any dead men at the end of the battle, shuffle them back into the deck.
