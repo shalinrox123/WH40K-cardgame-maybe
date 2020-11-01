@@ -37,9 +37,9 @@ Cards:
 
 Space Marine:
 There will be x amount of chapters (salamander, blood angles, ultramarines, etc) you can only choose one at the start of the game and they can not be changed once the game has started. Each card has a unique effect such as:
-Draw an extra resource card per turn
-Get 5 free loyalist tokens at the start of the game
-When in the attack phase, gain 50 attack
+	Draw an extra resource card per turn
+	Get 5 free loyalist tokens at the start of the game
+	When in the attack phase, gain 50 attack
 
 
 Enemy:
@@ -58,16 +58,16 @@ Depending on the rank of the enemy, each man in the army will have either low at
 Resources:
 Resource cards will be placed face down. The player has no access to the cards. These cards can be drawn at the start of the day.
 
-Food:
-This card will allow the player to pick up x amount of meat tokens, this can be used to feed the men in the army. 
-Drinks:
-This card will allow the player to pick up x amount of drink tokens, this can be used as a resource for the food upgrade.
-Ores:
-This card will be marked with how many ores it is worth (multiples of 5s). This can be used as a resource for the weapon or defense upgrade. 
-Healing potions:
-Rare, but this card will heal the HP of the emperor. The amount of HP that will be restored by will be marked on the card. (25%-75%)
-Loyalist: 
-This card will allow the player to pick up x amount of loyalist tokens, this can be used keep the emperor alive as each token is 500 sacrifices (unless stated by another card effect).
+	Food:
+	This card will allow the player to pick up x amount of meat tokens, this can be used to feed the men in the army. 
+	Drinks:
+	This card will allow the player to pick up x amount of drink tokens, this can be used as a resource for the food upgrade.
+	Ores:
+	This card will be marked with how many ores it is worth (multiples of 5s). This can be used as a resource for the weapon or defense upgrade. 
+	Healing potions:
+	Rare, but this card will heal the HP of the emperor. The amount of HP that will be restored by will be marked on the card. (25%-75%)
+	Loyalist: 
+	This card will allow the player to pick up x amount of loyalist tokens, this can be used keep the emperor alive as each token is 500 sacrifices (unless stated by another card effect).
 
 Recuit:
 Recruit cards will be placed face down. The player has no access to the cards. 
