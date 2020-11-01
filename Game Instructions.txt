@@ -18,7 +18,7 @@ How to start the game:
 
 Each player is given 3 random men and 10 random resources cards, and 3 of each kind of token/card (meat, drink, and ore) and you start off with 4 Loyalist tokens (500x4 so 2000 people, so good for 2 days) [see loyalist under car>resources for more detail]
 
-Separate each type of card into their respective decks upside down. So all the resource cards go in the resources deck, and the recruits go in a separate deck. The different kinds of decks will be labeled on the back of the cards. The battle counter is at zero and HP is full. 
+Separate each type of card into their respective decks upside down. So all the resource cards go in the resources deck, and the recruits go in a separate deck. The different kinds of decks will be labeled on the back of the cards. The battle counter is at zero and HP is full. Choose a space marine chapter to be your army type, the effects of this card will be applied to your game
 
 At the start of the day:
 First you must use up enough tokens (1000 people total) to keep the emperor alive. If you can not do this you automatically loose the game.
@@ -30,10 +30,17 @@ If you are unable to feed your men, remove the amount of men you want and shuffl
 At the end of the night:
 You must discard all the meat you collect for the day as meat goes bad
 Food upgrade cards do not need to be discarded
-Days before battle does down by 1
+Day counter by 1
 
 
 Cards:
+
+Space Marine:
+There will be x amount of chapters (salamander, blood angles, ultramarines, etc) you can only choose one at the start of the game and they can not be changed once the game has started. Each card has a unique effect such as:
+Draw an extra resource card per turn
+Get 5 free loyalist tokens at the start of the game
+When in the attack phase, gain 50 attack
+
 
 Enemy:
 There will be x amount of enemies. Each enemy card will be flipped face down with a predetermined number on the back of the card. This will be the order of the enemies the player goes into battle with. This is to ensure a fair battle but also with increasing difficulty as the game progresses. Maybe some cards will have the same number, the player can pick at random what card they will want to battle. If the the battle is won the player must go to the next enemy. The player can not battle multiple armies of the same level. However, if the battle ends in a retreat, the player is allowed to choose between the other enemies with the same number on their back to go into battle with. 
@@ -76,21 +83,19 @@ These will be face down, the player will not be able to select which recipe card
 	Ex Armor A takes x ores and adds y defense
 	   Weapon B takes x ores and adds y attack
 	   Shield C takes x ores and adds y defense
-	   Food D takes x drinks and adds z to HP [Look at healing>cunsumption to understand this better]
+	   Food D takes x drinks and adds y to HP [Look at healing>consumption to understand this better]
 So each skill card will correspond to an existing card in the upgrades deck. There is only one recipe per upgrade (once you learn a skill you can keep it, so there's no need to have 3 of the same skill cards). This card will show what item they will be making, the item stats will not be shown on this card. The amount of ores required will be shown on this card.
-
-
 
 Upgrade card:
 This deck the player can have access to and can look through at any point in the game. Does not have to be face down. The user must have the correct recipe card as well as the correct amount of resources needed to trade in for the upgrade. They can not trade in for an upgrade that they do not have the recipe for. Since this is not a skill card, the player is able to trade in multiple for the same recipe, or as many as the deck contains,
 If the user wants to make 3 guns but the deck only contains 1, the user can only make 1 gun. Upgrade cards already crafted can not be traded for other weapons or deconstructed back into ores.
 This card must show the name of the item, what type of item this is (defense, weapon, or food) and how many points it adds. 
-Ex: 8 defensive points but how many cards you draw at the start of the day decreases by 2
-    50 attack points but each loyalist token is not worth 200 instead of 500
+Ex: take 50 less damage per attack but the amount of cards you draw at the start of the day decreases by 2
+    50 attack points but each loyalist token is now worth 200 instead of 500
     3 HP points //nothing else
 These increase is stats will update the original stat
 So a shield with defense 12 on a defense of 200 will result in a new original defense points. If the shield is removed, the original defense points will be updated to 200.
-Though upgrade cards have been crafted, they do not need to be equipped. The player can interchange the different kinds of upgrade cards anytime during the game, except during the attack turn.
+Though upgrade cards have been crafted, they do not need to be equipped. The player can equip up to x weapons or shield cards total. The player can interchange the different kinds of upgrade cards anytime during the game, except during battle.
 
 
 Battle:
@@ -99,7 +104,7 @@ If the card says attack, the team will attack [see damage for more detail]
 If the card says defend, the team will defend [see battle for more detail]. If the team is not a player, at the bottom of the card will be a random effect from one of these:
 	heal HP	x amount
 	Revive men (if this is the effect the player gets to choose who comes back)
-	Upgraded weapons/defenses x amount
+	heal defense x amount
 
 Healing:
 How the HP of the emperor is restored 
@@ -107,6 +112,9 @@ How the HP of the emperor is restored
 Consumption:
 The upgrade card that is of a food type can be used to heal the HP of the emperor. The food can be consumed either during the days between battles or on the defense turn. The food upgrade can not be used during an attack turn.
 Once the food upgrade has been consumed, the card is placed back in the upgrade deck
+
+Potions:
+Potions can be used to heal the emperor anytime during the game except during the attach phases 
 
 After battle:
 If the battle ends in a victory, HP is replenished. No need for healing.
@@ -116,27 +124,34 @@ Picking an enemy:
 The order of enemies will be predetermined. So the player will battle the enemies in chronological order. But, if there are some enemies with the same number on their back, the user can pick (at random) between the two.
 
 Battle:
+Calculate the total defense points and attack points your team holds and then the same for the opposing team. The enemy cards will show an initial attack and defense points. Multiply the amount of men on their team by how much damage they do per turn and add that to the attack points for them. Don't forget to apply your space marines effect when during the correct turn.
 Each army (you and the opponent) must draw 4 BATTLE cards each
 Keep them face down in front of the corresponding armies
-The army that flips first will be the the army with the most amount of men (# of men for the enemy will be displayed on the enemy stats card)
+The army that flips first will be the the army with the most amount of men (# of men for the enemy will be displayed on the enemy stats card). If it is a draw, flip a coin. Heads you go first, tails they go first. (Fate or glory?)
 Flip the first card. 
 If the card is attack, the army must attack the opposing army. [See Damage to see what happens when an army attacks]. 
-If the card is Defense, the army can do one of the following: revive a single fallen soldier OR exchange ores to get new armor or weapons and equip them if desired OR consume a food upgrade card to heal HP. When in defense, the total defense increases by 10% of the original defense. 
-Ex: if the defense was originally (including stats from army and upgrades) 280 but the current defense if 20, it will go up by 28 points for every turn in defense. Unless the total defense points has been updated (loss of army man or upgrade) then the 10% added will need to be updated.
+If the card is Defense, the army can do one of the following: revive a single fallen soldier OR consume a food upgrade card to heal HP OR exchange ores to get new armor or weapons but can not equip them. When in defense, the total defense (not battle damaged defense) is healed by:
 
-Ex: if a team is on the defense, it heals 10%, but the opposing team could attack and get rid of 2 men. So the Total defense would lower so the total heal percentage would lower. But, the defense cards will have random effects at the bottom, one of them being "upgrade defense +XX" with that, the defense points would also increase and so the total healing percentage will also increase.
+Total defense:
+<200 heal 10 per turn
+200-599 heal 30 per turn
+600-999 heal 70 per turn
+1000+ heal 100 per turn
+
+
+Ex: if the defense was originally (including stats from army and upgrades) 300 but the current defense if 20, it will go up by 30 points for every turn in defense. Unless the total defense points has been updated (loss of army recruit) then the total defense need to be updated.
 
 Outcome the battle:
 If all 8 cards have been flipped there is no determined winner, both armies retreat and a new battle will commence in 10 days. (Single player) The opposing team will regain all their original stats, but you will not. You will have 10 days to prepare for war once again.  The enemy is then placed back upside down, and the player will once again get to choose who to battle if there is a choice. (Two player) both teams will not regain any stats.
 If the opposing teams HP has been reduced to 0, regain all your hp, draw 5 new resource cards and get 2 new men from the recruit deck. Start the counter at day 10, begin a new day. The enemies with the same level/number on the back can not be battled against in any upcoming battles. If you have dead men but you won, you can choose to revive only one man.
 
 Damage:
-If you attack the opposing team, you will first deal damage to the opposing teams defense upgrades and then defense points. Any defense upgrade cards destroyed must be placed back in the upgrade deck. 
-Ex: if an upgrade has a defense of 5 but there was an attack of 10, the upgrade card is less than the total attack so it will be destroyed and placed back in the deck and the remaining points will be subtracted from the defense points. But, if there was an attack of 3, the defense upgrade card takes no damage and remains at 5 points
-Once the defense reaches zero, the remaining points will then be subtracted from the armys HP.
-For every 10% of the original HP (including stats from army and upgrades) that the team loses the army loses 1 man of the players choice. So if the total HP was 400, and there was an attack for 60, then that's would be 15% damage. But you can't remove 1.5 men, so you remove it to the nearest whole number. So 2 men are now dead. But they can be revived on the next defense turn.
-Unfortunately this does not apply to enemy cards, if they get a defense upgrade, that's added to the total defense points
+If you attack the opposing team, you will first deal damage to the opposing teams defense points and then the HP.
+Ex: if a team has a defense of 5 but there was an attack of 8, the defense is reduced to 0 and the rest of the attack points (3) will be reduced from the HP
 
-Army:
-If in battle and the men dies: flip them upside down you can revive them during the defense turn. if the card is upside down, the stats from the card is removed from the total attack/defense points until revived. If the man is revived, flip the card back and then update the defesne/attack accordingly. 
+Once the defense reaches zero, the remaining points will then be subtracted from the armys HP.
+For every successful attack to the opponents HP, the opposing army loses 1 man of the players choice.
+
+Died in battle:
+If in battle and the men dies: flip them upside down you can revive them during the defense turn
 If you have any dead men at the end of the battle, shuffle them back into the deck.
