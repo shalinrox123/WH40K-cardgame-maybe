@@ -130,20 +130,22 @@ Keep them face down in front of the corresponding armies
 The army that flips first will be the the army with the most amount of men (# of men for the enemy will be displayed on the enemy stats card). If it is a draw, flip a coin. Heads you go first, tails they go first. (Fate or glory?)
 Flip the first card. 
 If the card is attack, the army must attack the opposing army. [See Damage to see what happens when an army attacks]. 
-If the card is Defense, the army can do one of the following: revive a single fallen soldier OR consume a food upgrade card to heal HP OR exchange ores to get new armor or weapons but can not equip them. When in defense, the total defense (not battle damaged defense) is healed by:
+If the card is Defense, the army can do one of the following: revive a single fallen soldier OR consume a food upgrade card to heal HP OR exchange ores to get new armor or weapons but can not equip them. When in defense, the total defense (not battle damaged defense) is healed up to the total defense.
 
-Total defense:
-<200 heal 10 per turn
-200-599 heal 30 per turn
-600-999 heal 70 per turn
-1000+ heal 100 per turn
+	Total defense | Healing:
+	<200 heal 10 per turn
+	200-599 heal 30 per turn
+	600-999 heal 70 per turn
+	1000+ heal 100 per turn
 
 
 Ex: if the defense was originally (including stats from army and upgrades) 300 but the current defense if 20, it will go up by 30 points for every turn in defense. Unless the total defense points has been updated (loss of army recruit) then the total defense need to be updated.
 
+Ex: if the defense was originally (including stats from army and upgrades) 300 but the current defense if 280, it will only go up by 20. you can not heal over you total defense points
+
 Outcome the battle:
 If all 8 cards have been flipped there is no determined winner, both armies retreat and a new battle will commence in 10 days. (Single player) The opposing team will regain all their original stats, but you will not. You will have 10 days to prepare for war once again.  The enemy is then placed back upside down, and the player will once again get to choose who to battle if there is a choice. (Two player) both teams will not regain any stats.
-If the opposing teams HP has been reduced to 0, regain all your hp, draw 5 new resource cards and get 2 new men from the recruit deck. Start the counter at day 10, begin a new day. The enemies with the same level/number on the back can not be battled against in any upcoming battles. If you have dead men but you won, you can choose to revive only one man.
+If the opposing teams HP has been reduced to 0, regain all your hp, draw 5 new resource cards and get 2 new men from the recruit deck. Start the counter at day 0, begin a new day. The enemies with the same level/number on the back can not be battled against in any upcoming battles. If you have dead men but you won, you can choose to revive only one man.
 
 Damage:
 If you attack the opposing team, you will first deal damage to the opposing teams defense points and then the HP.
