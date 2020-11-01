@@ -2,7 +2,7 @@ Rules:
 You are the emperor:
 You need to live to not end the world
 The emperor needs 1000 sacrifices per day to live
-Every 10 days you prepare for war
+Every 5 days you prepare for war
 You need to strengthen your army and gather resources to live and survive each war
 You are not required to draw any cards at the start of every day
 The enemy can either be the warhammer enemy or if 2 players, each other
@@ -25,7 +25,7 @@ At the start of the day:
 First you must use up enough tokens (1000 people total) to keep the emperor alive. If you can not do this you automatically loose the game.
 If the battle counter is at 10 go into battle after the sacrifices but do not collect resources, feed your men, equip new cards, or heal this turn.
 The player can equip and unequip the different kinds of upgrade cards before the resources are drawn.
-You can draw up to x total amount of resource, recruit, or upgrade recipe cards per turn. You are not required to draw any cards
+You can draw up to 5 total amount of resource, recruit, or upgrade recipe cards per turn. You are not required to draw any cards
 If you are unable to feed your men, remove the amount of men you want and shuffle them back into the deck
 
 
@@ -46,7 +46,7 @@ There will be x amount of chapters (crimson fists, blood angels, fire lords, etc
 
 Enemy:
 There will be x amount of enemies. Each enemy card will be flipped face down with a predetermined number on the back of the card. [see Picking an enemy for more detail] This will be the order of the enemies the player goes into battle with. This is to ensure a fair battle but also with increasing difficulty as the game progresses and not a random order. Maybe some cards will have the same number, the player can pick at random what card they will want to battle. If the the battle is won the player must go to the next enemy. The player can not battle multiple armies of the same level. However, if the battle ends in a retreat, the player is allowed to choose between the other enemies with the same number on their back to go into battle with. 
-Ex: there are 3 cards with a rank of 5. The player can pick one of the cards (face down) to go into battle with. If the battle ends in a retreat, that card is put pack with the other two rank 5's. After 10 days the player can select again one of those 3 rank 5 cards to battle with.
+Ex: there are 3 cards with a rank of 5. The player can pick one of the cards (face down) to go into battle with. If the battle ends in a retreat, that card is put pack with the other two rank 5's. After 5 days the player can select again one of those 3 rank 5 cards to battle with.
 
 The enemy card must contain the following information:
 
@@ -144,7 +144,7 @@ Ex: if the defense was originally (including stats from army and upgrades) 300 b
 Ex: if the defense was originally (including stats from army and upgrades) 300 but the current defense is 280, it will only go up by 20. you can not heal over your total defense points
 
 Outcome the battle:
-Retreat: If all 8 cards have been flipped there is no determined winner, both armies retreat and a new battle will commence in 10 days. (Single player) The opposing team will regain all their original stats, but you will not. You will have 10 days to prepare for war once again.  The enemy is then placed back upside down, and the player will once again get to choose who to battle if there is a choice. (Two player) both teams will not regain any stats.
+Retreat: If all 8 cards have been flipped there is no determined winner, both armies retreat and a new battle will commence in 10 days. (Single player) The opposing team will regain all their original stats, but you will not. You will have 5 days to prepare for war once again.  The enemy is then placed back upside down, and the player will once again get to choose who to battle if there is a choice. (Two player) both teams will not regain any stats.
 Victory: If the opposing teams HP has been reduced to 0, regain all your HP, draw 5 new resource cards and get 2 new men from the recruit deck. Start the counter at day 0, begin a new day. The enemies with the same level/number on the back can not be battled against in any upcoming battles.
 Lose: If your HP has been reduced to 0, the emperor dies and the game ends in a defeat
 
