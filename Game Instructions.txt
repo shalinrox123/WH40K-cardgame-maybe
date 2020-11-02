@@ -7,6 +7,8 @@ You need to strengthen your army and gather resources to live and survive each w
 You are not required to draw any cards at the start of every day
 The enemy can either be the warhammer enemy or if 2 players, each other
 
+=======================================
+
 How to win:
 Defeat all the enemies before your HP hits zero!
 
@@ -34,17 +36,18 @@ You must discard all the meat you collect for the day as meat goes bad
 No other cards or tokens need to be discarded (unless stated by another card effect)
 Day counter goes up by 1
 
+=======================================
 
 Cards:
 
-Space Marine:
+Space Marine Card:
 There will be x amount of chapters (crimson fists, blood angels, fire lords, etc) you can only choose one at the start of the game and they can not be changed once the game has started. Each card has a unique effect such as:
 	Draw an extra resource card per turn
 	Get 5 free loyalist tokens at the start of the game
 	When in the attack phase, gain 50 attack
 
 
-Enemy:
+Enemy Card:
 There will be x amount of enemies. Each enemy card will be flipped face down with a predetermined number on the back of the card. [see Picking an enemy for more detail] This will be the order of the enemies the player goes into battle with. This is to ensure a fair battle but also with increasing difficulty as the game progresses and not a random order. Maybe some cards will have the same number, the player can pick at random what card they will want to battle. If the the battle is won the player must go to the next enemy. The player can not battle multiple armies of the same level. However, if the battle ends in a retreat, the player is allowed to choose between the other enemies with the same number on their back to go into battle with. 
 Ex: there are 3 cards with a rank of 5. The player can pick one of the cards (face down) to go into battle with. If the battle ends in a retreat, that card is put pack with the other two rank 5's. After 5 days the player can select again one of those 3 rank 5 cards to battle with.
 
@@ -58,7 +61,7 @@ The enemy card must contain the following information:
 	# of HP
 	(Depending on the rank of the enemy, each man in the army will have either low attack and defense stats, or high ones)
 
-Resources:
+Resource Cards:
 Resource cards will be placed face down. These cards can be drawn at the start of the day.
 
 	Food:
@@ -72,7 +75,7 @@ Resource cards will be placed face down. These cards can be drawn at the start o
 	Loyalist: 
 	This card will allow the player to pick up x amount of loyalist tokens, this can be used to keep the emperor alive as each token is 500 sacrifices (unless stated by another card effect). After you aquire the tokens, shuffle the card back into the deck
 
-Recruit:
+Recruit Card:
 Recruit cards will be placed face down. These cards can be drawn at the start of the day or after a battle was won. Each recruit card will state the stats that the soldier has and the amount of resources the player must use every day to keep them alive.
 	Ex: Man 1 has a +8 attack, a -1 defense, and consumes 2 meat
 	    Man 2 has a +1 attack, a +7 defense, and consumes 3 meat 
@@ -98,13 +101,15 @@ These increase in stats will update the original stat. So a shield with defense 
 Though upgrade cards have been crafted, they do not need to be equipped. The player can equip up to x weapons or shield cards total. The player can interchange the different kinds of upgrade cards at the begining of the day, except during battle.
 
 
-Battle:
+Battle Card:
 Battle cards must be face down. The player will not have access to them except on the day of the battle.
 If the card says attack, the team will attack [see battle>damage for more detail]
 If the card says defend, the team will defend [see battle for more detail]. If the team is not a player, at the bottom of the card will be a random effect from one of these:
 	heal HP	x amount
 	Revive men (if this is the effect the player gets to choose who comes back)
 	heal defense x amount
+
+=======================================
 
 Healing:
 How the HP of the emperor is restored 
@@ -119,9 +124,12 @@ Potions can be used to heal the emperor anytime during the game except during th
 After battle:
 If the battle ends in a victory, HP is replenished. No need for healing.
 
+=======================================
 
 Picking an enemy:
 The order of enemies will be predetermined. So the player will battle the enemies in chronological order. But, if there are multiple enemies with the same number on their back, the user can pick (at random) between them.
+
+=======================================
 
 Battle:
 Calculate the total defense points and attack points your team holds and then the same for the opposing team. The enemy cards will show an initial attack and defense points. Multiply the amount of men on their team by how much damage they do per turn and add that to the attack points for them. Don't forget to apply your space marines effect when during the correct turn.
