@@ -25,7 +25,7 @@ Separate each type of card into their respective decks upside down. So all the r
 
 At the start of the day:
 First you must use up enough tokens (1000 people total) to keep the emperor alive. If you can not do this you automatically loose the game.
-If the battle counter is at 10 go into battle after the sacrifices but do not collect resources, feed your men, equip new cards, or heal this turn.
+If the battle counter is at 5 go into battle after the sacrifices but do not collect resources, feed your men, equip new cards, or heal this turn.
 The player can equip and unequip the different kinds of upgrade cards before the resources are drawn.
 You can draw up to 5 total amount of resource, recruit, or upgrade recipe cards per turn. You are not required to draw any cards
 If you are unable to feed your men, remove the amount of men you want and shuffle them back into the deck
